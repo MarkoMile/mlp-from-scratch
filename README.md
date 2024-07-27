@@ -2,7 +2,7 @@
 Building a fully connected feed-forward network (Multilayer perception) using only numPy. The neural network is trained to detect hand-drawn numbers from the MNIST dataset.
 This was a quick project that I did to get a good foundational understanding of the math behind back-propagation and stochastic gradient descent.
 
-### Batch gradient descent results
+### Stochastic gradient descent results
 The accuracy on the test dataset is around 92%
 
 This is the loss function during training over 5 epochs:
